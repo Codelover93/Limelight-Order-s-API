@@ -1,2 +1,2 @@
-# Limelight-Order-s-API
+# Limelight-Orders-API
 Limelight API in PHP
